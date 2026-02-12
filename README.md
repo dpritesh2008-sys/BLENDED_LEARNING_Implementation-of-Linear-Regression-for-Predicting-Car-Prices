@@ -14,7 +14,6 @@ To write a program to predict car prices using a linear regression model and tes
 4.Gradient Boosting Regressor – Reduces errors step-by-step for better prediction.
 
 ## Program:
-~~
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
 Developed by: Balasurya S
@@ -66,7 +65,6 @@ plt.ylabel("Predicted Price ($)")
 plt.grid(True)
 plt.show()
 
-~~
 
 ## Output:
 <img width="868" height="468" alt="548117907-9c61ea94-ec6d-4627-9989-9fed295917b7" src="https://github.com/user-attachments/assets/6b2f5a94-5ff7-47e7-9a6d-841987347911" />
