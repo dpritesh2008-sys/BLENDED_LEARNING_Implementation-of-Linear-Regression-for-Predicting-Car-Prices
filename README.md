@@ -48,8 +48,8 @@ model=LinearRegression()
 model.fit(x_train_scaled,y_train)
 y_pred=model.predict(x_test_scaled)
 
-print('Name:BALASURYA S')
-print('Reg. No:25000944')
+print('Name:Ritesh DP')
+print('Reg. No:25015366')
 print("MODEL COEFFICIENTS:")
 for feature, coef in zip(x.columns,model.coef_):
     print(f"{feature:>12}: {coef:>10.2f}")
